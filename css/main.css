@@ -1,0 +1,4 @@
+/** Main entrypoint for styles **/
+@import "./variables.css";
+@import "./components/index.css";
+@import "./partials/index.css";
